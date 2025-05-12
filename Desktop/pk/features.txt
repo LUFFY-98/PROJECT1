@@ -1,0 +1,5 @@
+1.Tracks changes
+2.Allows branching
+3.Supports teamwork
+4.Keeps history
+5.Easy to undo mistakes
